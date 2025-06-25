@@ -29,9 +29,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        var per = new Person();
+        Console.WriteLine("Kamran Karimzada Group");
 
-        
+        Console.WriteLine("Telebeler");
+
+
     }
 }
 
